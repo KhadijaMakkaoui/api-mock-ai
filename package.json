@@ -1,0 +1,27 @@
+{
+  "name": "api-mock-ai",
+  "version": "1.0.0",
+  "description": "NPM package that mocks API responses using simple JSON config + AI-generated fake data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhadijaMakkaoui/api-mock-ai.git"
+  },
+  "keywords": [
+    "api",
+    "mock",
+    "ai"
+  ],
+  "author": "Khadija Makkaoui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhadijaMakkaoui/api-mock-ai/issues"
+  },
+  "homepage": "https://github.com/KhadijaMakkaoui/api-mock-ai#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
