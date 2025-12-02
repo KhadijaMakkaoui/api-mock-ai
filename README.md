@@ -81,12 +81,12 @@ If no key is provided, the library **automatically switches to mock mode**.
 
 ### ✅ **Basic Example**
 
-` import { generateAIResponse } from "api-mock-ai";
-const run = async () => {
-  const response = await generateAIResponse("Hello world!");
-  console.log(response);
-};
-run();`
+<code> import { generateAIResponse } from "api-mock-ai";<br>
+const run = async () => {<br>
+  const response = await generateAIResponse("Hello world!");<br>
+  console.log(response);<br>
+};<br>
+run();</code>
 
 **Output example:**
 
@@ -130,7 +130,7 @@ You will see:
 │   ├── server.js              # startMockAIServer function<br>
 ├── package.json<br>
 ├── README.md<br>
-└── test.js                    # example usage<code>
+└── test.js                    # example usage</code>
 
 * * * * *
 
@@ -190,7 +190,9 @@ Contributions are welcome!\
 To contribute:
 
 `git clone https://github.com/KhadijaMakkaoui/api-mock-ai`
+
 `cd api-mock-ai`
+
 `npm install`
 
 Then submit a pull request 🚀
