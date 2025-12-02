@@ -1,0 +1,14 @@
+{
+  "GET /users": {
+    "generate": "list of 5 random users with id, name, email"
+  },
+  "POST /login": {
+    "generate": "a mock JWT token"
+  },
+  "GET /products": {
+    "static": [
+      { "id": 1, "name": "Laptop", "price": 1200 },
+      { "id": 2, "name": "Camera", "price": 450 }
+    ]
+  }
+}
