@@ -122,22 +122,15 @@ You will see:
 📁 **Project Structure**
 ------------------------
 
-`api-mock-ai/
-├── src/
-
-│   ├── ai-generator.js        # generateAIResponse logic 
-
-(mock + real mode)
-
-│   ├── router-builder.js      # Express routes
-
-│   ├── server.js              # startMockAIServer function
-
-├── package.json
-
-├── README.md
-
-└── test.js                    # example usage`
+<code>api-mock-ai/<br>
+├── src/<br>
+│   ├── ai-generator.js  # generateAIResponse logic<br>
+(mock + real mode)<br>
+│   ├── router-builder.js      # Express routes<br>
+│   ├── server.js              # startMockAIServer function<br>
+├── package.json<br>
+├── README.md<br>
+└── test.js                    # example usage<code>
 
 * * * * *
 
@@ -196,8 +189,8 @@ Perfect for:
 Contributions are welcome!\
 To contribute:
 
-`git clone https://github.com/your-username/api-mock-ai
-cd api-mock-ai
-npm install`
+`git clone https://github.com/KhadijaMakkaoui/api-mock-ai`
+`cd api-mock-ai`
+`npm install`
 
 Then submit a pull request 🚀

@@ -1,5 +1,5 @@
 {
-  "name": "api-mock-ai",
+  "name": "@khadijamakkaoui/api-mock-ai",
   "version": "1.0.0",
   "type": "module",
   "description": " lightweight mock API generator powered by AI.",
