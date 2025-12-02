@@ -2,7 +2,7 @@
   "name": "api-mock-ai",
   "version": "1.0.0",
   "type": "module",
-  "description": "NPM package that mocks API responses using simple JSON config + AI-generated fake data",
+  "description": " lightweight mock API generator powered by AI.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -18,7 +18,7 @@
     "ai"
   ],
   "author": "Khadija Makkaoui",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KhadijaMakkaoui/api-mock-ai/issues"
   },

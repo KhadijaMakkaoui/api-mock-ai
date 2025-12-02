@@ -124,11 +124,19 @@ You will see:
 
 `api-mock-ai/
 ├── src/
-│   ├── ai-generator.js        # generateAIResponse logic (mock + real mode)
+
+│   ├── ai-generator.js        # generateAIResponse logic 
+
+(mock + real mode)
+
 │   ├── router-builder.js      # Express routes
+
 │   ├── server.js              # startMockAIServer function
+
 ├── package.json
+
 ├── README.md
+
 └── test.js                    # example usage`
 
 * * * * *
