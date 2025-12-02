@@ -81,13 +81,11 @@ If no key is provided, the library **automatically switches to mock mode**.
 
 ### ✅ **Basic Example**
 
-`import { generateAIResponse } from "api-mock-ai";
-
+` import { generateAIResponse } from "api-mock-ai";
 const run = async () => {
   const response = await generateAIResponse("Hello world!");
   console.log(response);
 };
-
 run();`
 
 **Output example:**
